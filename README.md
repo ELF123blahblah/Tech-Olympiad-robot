@@ -1,5 +1,5 @@
-<img width="860" height="611" alt="Screenshot 2026-03-23 at 09 55 52" src="https://github.com/user-attachments/assets/f1ea0a44-f94b-4c63-b99b-b447005b715c" />#README
-This robot was originally made for a regional technology olympiad which I got bronze because of my test. Anyways this repo is mainly focused on the CAD design, the main reason for this is that the board is made by someone else and has copyright.
+<img width="860" height="611" alt="Screenshot 2026-03-23 at 09 55 52" src="https://github.com/user-attachments/assets/f1ea0a44-f94b-4c63-b99b-b447005b715c" />
+This robot was originally made for a regional technology olympiad which I got bronze because of my test. Anyways this repo is mainly focused on the CAD design, the main reason for this is that the board is made by someone else and has copyright.(This project was made by me and a friend of mine)
 
 ### Electrical components
 - ESC
